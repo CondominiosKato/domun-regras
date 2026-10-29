@@ -1,9 +1,6 @@
-PORTAL DOMUN — V2
+DOMUN — Portal V4 (layout corrigido)
 
-Para atualizar o site GitHub Pages:
-1. Abra o repositório domun-regras no GitHub.
-2. Envie o arquivo index.html e a pasta assets, mantendo a estrutura.
-3. Faça Commit changes e aguarde a publicação do Pages.
-4. Atualize o navegador com Ctrl+F5.
+Atualização: os cartões não ficam mais parcialmente encobertos pelo banner. A logo e as regras da V3 foram preservadas.
 
-ATENÇÃO: As regras foram mantidas a partir do HTML anterior, sem validação jurídica adicional. Algumas imagens são ilustrativas.
+No GitHub, substitua index.html e mantenha a pasta assets existente. Se preferir, envie todos os arquivos deste pacote respeitando a estrutura de pastas.
+Depois do commit, aguarde a publicação e atualize com Ctrl+F5.
