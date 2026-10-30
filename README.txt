@@ -1,14 +1,14 @@
-DOMUN — Portal com galerias deslizando para o lado
+PORTAL DOMUN — V7, ESPAÇO SERVICE
 
-PUBLICAR NO GITHUB PAGES:
-1. Abra o repositório domun-regras.
-2. Envie index.html e a pasta assets INTEIRA (incluindo assets/galerias).
-3. Confirme Commit changes. Atualize o site após o deployment.
-4. Teste a galeria em qualquer área comum (toque/deslize ou use setas).
+Atualização: adicionadas duas perspectivas ilustrativas para Espaço Service.
+- Card inicial exibe a primeira imagem.
+- Ao selecionar Espaço Service, a galeria desliza horizontalmente entre duas imagens com setas ou gesto no celular.
+- As duas imagens são geradas por IA e NÃO são fotografias reais do ambiente do condomínio.
+- Todas as 14 áreas e regras foram preservadas a partir da versão V6.
 
-As regras documentais são copiadas da V5 sem alteração.
-As imagens em assets/galerias são perspectivas ilustrativas de IA (não fotos reais
-nem reconstrução geométrica exata). Imagens do material original estão na raiz assets/.
-Os links #slug de cada área foram mantidos para futuros QR Codes.
-Área Espaço Service não recebeu imagem substituta de ambiente não verificado.
-O site continua em fase de revisão, confirme normas com a administração.
+INSTALAÇÃO NO GITHUB PAGES
+1. Abra o repositório domun-regras no GitHub.
+2. Envie o index.html ATUALIZADO para a raiz do repositório e a pasta assets/galerias com os 2 arquivos .webp novos (ou toda a pasta assets).
+3. Confirme as alterações e atualize https://leonardogtx.github.io/domun-regras/ usando Ctrl+F5.
+
+Atenção: preserve a estrutura exata da pasta assets.
